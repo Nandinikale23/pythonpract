@@ -1,4 +1,4 @@
-# distonary is collection of key-value pairs
+# dictonary is collection of key-value pairs
 # unordered
 #mutable,indexed
 #can not contain duplicate keys
