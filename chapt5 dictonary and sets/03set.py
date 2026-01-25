@@ -1,4 +1,4 @@
-#se:- set is collection of non-repetitive elements
+#set:- set is collection of non-repetitive elements
         # no dublicates ,all elemets are unique
         #muttable
         #unordered
