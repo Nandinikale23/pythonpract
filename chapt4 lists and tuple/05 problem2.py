@@ -1,4 +1,4 @@
-#WAP to accept marks of 6 marks and display them in sortwd manner 
+#WAP to accept marks of 6 marks and display them in sorted manner 
 students=[]
 s1=int(input("enter marks of student s1:"))
 students.append(s1)
